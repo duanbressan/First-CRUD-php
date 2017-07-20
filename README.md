@@ -8,14 +8,14 @@ Trabalho realizado na matéria de Programação Web com objetivo de criação e 
 
 ![ScreenShot](https://github.com/duanbressan/First-CRUD-php/blob/master/Imagens/add.png?raw=true)
 
-### 1 - Listar Todos os Clientes:
+### 2 - Listar Todos os Clientes:
 
 ![ScreenShot](https://github.com/duanbressan/First-CRUD-php/blob/master/Imagens/get%20all.png?raw=true)
 
-### 1 - Remover um Cliente:
+### 3 - Remover um Cliente:
 
 ![ScreenShot](https://github.com/duanbressan/First-CRUD-php/blob/master/Imagens/remove.png?raw=true)
 
-### 1 - Pesquisar Cliente por Nome:
+### 4 - Pesquisar Cliente por Nome:
 
 ![ScreenShot](https://github.com/duanbressan/First-CRUD-php/blob/master/Imagens/find.png?raw=true)
