@@ -1,4 +1,4 @@
-# First-CRUD-php
+# Primeiro CRUD em PHP
 
 Trabalho realizado na matéria de Programação Web com objetivo de criação e conexão com um Banco de Dados simples em PHP.
 
